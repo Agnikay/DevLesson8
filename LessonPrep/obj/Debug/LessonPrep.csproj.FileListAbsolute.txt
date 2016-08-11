@@ -1,0 +1,5 @@
+D:\MC\Lectures\Dev\Lesson8_adonet\LessonPrep\LessonPrep\bin\Debug\LessonPrep.exe.config
+D:\MC\Lectures\Dev\Lesson8_adonet\LessonPrep\LessonPrep\bin\Debug\LessonPrep.exe
+D:\MC\Lectures\Dev\Lesson8_adonet\LessonPrep\LessonPrep\bin\Debug\LessonPrep.pdb
+D:\MC\Lectures\Dev\Lesson8_adonet\LessonPrep\LessonPrep\obj\Debug\LessonPrep.exe
+D:\MC\Lectures\Dev\Lesson8_adonet\LessonPrep\LessonPrep\obj\Debug\LessonPrep.pdb
